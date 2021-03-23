@@ -1,0 +1,26 @@
+Functions 
+name = "tanusri"
+num = 15
+arr=["hello","hi","welcome"]
+print(arr[1])
+hi
+a = input("What is your favourite colour :")
+What is your favourite colour : Green
+print(a)
+Green
+if(5>4):
+print('Welcome')
+...
+welcome
+size = 32
+if(size > 10):
+print('hi')
+print('bye')
+elif(size<10):
+arr=['name','size','height']
+for t in arr:
+... print(t)
+...
+name
+size
+height
